@@ -1,8 +1,9 @@
 ### Olá! Eu sou o Leonardo Paulelli
 
 
-- 🔭 Desenvolvedor Web
-- 🌱 Estudante Análise e Desenvolvimento de Sistemas 3/4
+- :desktop_computer: Desenvolvedor Web
+- :mortar_board: Estudante Análise e Desenvolvimento de Sistemas 3/4
+- Apaixonado por jogos :video_game: e livros :books:
 <div align="center">
   <a href="https://github.com/Leonardo-FP">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leonardo-FP&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
