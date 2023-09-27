@@ -2,7 +2,7 @@
 
 
 - :desktop_computer: Desenvolvedor Web
-- :mortar_board: Estudante Análise e Desenvolvimento de Sistemas 3/4
+- :mortar_board: Formado em Análise e Desenvolvimento de Sistemas
 - Apaixonado por jogos :video_game: e livros :books:
 <div align="center">
   <a href="https://github.com/Leonardo-FP">
