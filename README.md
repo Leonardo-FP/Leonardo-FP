@@ -1,9 +1,11 @@
 ### Olá! Eu sou o Leonardo Paulelli
 
 
-- :desktop_computer: Desenvolvedor Web
 - :mortar_board: Formado em Análise e Desenvolvimento de Sistemas
-- Apaixonado por jogos :video_game: e livros :books:
+- :desktop_computer: Desenvolvedor Web
+- :crown: Especialista em Laravel
+- :pencil: Estudando atualmente Vue.js e Flutter
+- :heart_eyes: Apaixonado por jogos :video_game: e livros :books:
 <div align="center">
   <a href="https://github.com/Leonardo-FP">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leonardo-FP&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
@@ -15,10 +17,13 @@
 <div style="display: inline_block"><br>
     <img align="center" alt="Leonardo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Leonardo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Leonardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Leonardo-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" alt="Leonardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Leonardo-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
     <img align="center" alt="Leonardo-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+    <img align="center" alt="Leonardo-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
     <img align="center" alt="Leonardo-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <img align="center" alt="Leonardo-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
     <img align="center" alt="Leonardo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img align="center" alt="Leonardo-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img align="center" alt="Leonardo-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
