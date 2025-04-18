@@ -4,7 +4,7 @@
 - :mortar_board: Formado em Análise e Desenvolvimento de Sistemas
 - :desktop_computer: Desenvolvedor Web
 - :crown: Especialista em Laravel
-- :pencil: Estudando atualmente Vue.js e Flutter
+- :pencil: Estudando atualmente Vue.js e AWS
 - :heart_eyes: Apaixonado por jogos :video_game: e livros :books:
 <div align="center">
   <a href="https://github.com/Leonardo-FP">
@@ -23,7 +23,7 @@
     <img align="center" alt="Leonardo-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
     <img align="center" alt="Leonardo-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
     <img align="center" alt="Leonardo-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <img align="center" alt="Leonardo-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+    <img align="center" alt="Leonardo-Aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
     <img align="center" alt="Leonardo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img align="center" alt="Leonardo-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <!--     <img align="center" alt="Leonardo-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
