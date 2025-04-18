@@ -2,7 +2,7 @@
 
 
 - :mortar_board: Formado em Análise e Desenvolvimento de Sistemas
-- :desktop_computer: Desenvolvedor Web
+- :desktop_computer: Analista de TI Pleno
 - :crown: Especialista em Laravel
 - :pencil: Estudando atualmente Vue.js e AWS
 - :heart_eyes: Apaixonado por jogos :video_game: e livros :books:
